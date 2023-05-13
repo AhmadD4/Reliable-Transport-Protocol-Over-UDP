@@ -1,0 +1,301 @@
+SYN sent to server
+SYN-ACK received from server
+ACK sent to server
+Connection established successfully!
+packet 0 containing header + data of size 1472
+Sent packet with seq: 0
+packet 1 containing header + data of size 1472
+Sent packet with seq: 1
+packet 2 containing header + data of size 1472
+Sent packet with seq: 2
+packet 3 containing header + data of size 1472
+Sent packet with seq: 3
+packet 4 containing header + data of size 1472
+Sent packet with seq: 4
+Received ACK for seq: 0
+packet 5 containing header + data of size 1472
+Sent packet with seq: 5
+Received ACK for seq: 1
+packet 6 containing header + data of size 1472
+Sent packet with seq: 6
+Received ACK for seq: 2
+packet 7 containing header + data of size 1472
+Sent packet with seq: 7
+Timeout. Resending window.
+Resent packet with seq: 3
+Resent packet with seq: 4
+Resent packet with seq: 5
+Resent packet with seq: 6
+Resent packet with seq: 7
+Received ACK for seq: 3
+packet 8 containing header + data of size 1472
+Sent packet with seq: 8
+Received ACK for seq: 4
+packet 9 containing header + data of size 1472
+Sent packet with seq: 9
+Received ACK for seq: 5
+packet 10 containing header + data of size 1472
+Sent packet with seq: 10
+Received ACK for seq: 6
+packet 11 containing header + data of size 1472
+Sent packet with seq: 11
+Received ACK for seq: 7
+packet 12 containing header + data of size 1472
+Sent packet with seq: 12
+Received ACK for seq: 8
+packet 13 containing header + data of size 1472
+Sent packet with seq: 13
+Received ACK for seq: 9
+packet 14 containing header + data of size 1472
+Sent packet with seq: 14
+Received ACK for seq: 10
+packet 15 containing header + data of size 1472
+Sent packet with seq: 15
+Received ACK for seq: 11
+packet 16 containing header + data of size 1472
+Sent packet with seq: 16
+Received ACK for seq: 12
+packet 17 containing header + data of size 1472
+Sent packet with seq: 17
+Received ACK for seq: 13
+packet 18 containing header + data of size 1472
+Sent packet with seq: 18
+Received ACK for seq: 14
+packet 19 containing header + data of size 1472
+Sent packet with seq: 19
+Received ACK for seq: 15
+packet 20 containing header + data of size 1472
+Sent packet with seq: 20
+Received ACK for seq: 16
+packet 21 containing header + data of size 1472
+Sent packet with seq: 21
+Received ACK for seq: 17
+packet 22 containing header + data of size 1472
+Sent packet with seq: 22
+Received ACK for seq: 18
+packet 23 containing header + data of size 1472
+Sent packet with seq: 23
+Received ACK for seq: 19
+packet 24 containing header + data of size 1472
+Sent packet with seq: 24
+Received ACK for seq: 20
+packet 25 containing header + data of size 1472
+Sent packet with seq: 25
+Received ACK for seq: 21
+packet 26 containing header + data of size 1472
+Sent packet with seq: 26
+Received ACK for seq: 22
+packet 27 containing header + data of size 1472
+Sent packet with seq: 27
+Received ACK for seq: 23
+packet 28 containing header + data of size 1472
+Sent packet with seq: 28
+Received ACK for seq: 24
+packet 29 containing header + data of size 1472
+Sent packet with seq: 29
+Received ACK for seq: 25
+packet 30 containing header + data of size 1472
+Sent packet with seq: 30
+Received ACK for seq: 26
+packet 31 containing header + data of size 1472
+Sent packet with seq: 31
+Received ACK for seq: 27
+packet 32 containing header + data of size 1472
+Sent packet with seq: 32
+Received ACK for seq: 28
+packet 33 containing header + data of size 1472
+Sent packet with seq: 33
+Received ACK for seq: 29
+packet 34 containing header + data of size 1472
+Sent packet with seq: 34
+Received ACK for seq: 30
+packet 35 containing header + data of size 1472
+Sent packet with seq: 35
+Received ACK for seq: 31
+packet 36 containing header + data of size 1472
+Sent packet with seq: 36
+Received ACK for seq: 32
+packet 37 containing header + data of size 1472
+Sent packet with seq: 37
+Received ACK for seq: 33
+packet 38 containing header + data of size 1472
+Sent packet with seq: 38
+Received ACK for seq: 34
+packet 39 containing header + data of size 1472
+Sent packet with seq: 39
+Received ACK for seq: 35
+packet 40 containing header + data of size 1472
+Sent packet with seq: 40
+Received ACK for seq: 36
+packet 41 containing header + data of size 1472
+Sent packet with seq: 41
+Received ACK for seq: 37
+packet 42 containing header + data of size 1472
+Sent packet with seq: 42
+Received ACK for seq: 38
+packet 43 containing header + data of size 1472
+Sent packet with seq: 43
+Received ACK for seq: 39
+packet 44 containing header + data of size 1472
+Sent packet with seq: 44
+Received ACK for seq: 40
+packet 45 containing header + data of size 1472
+Sent packet with seq: 45
+Received ACK for seq: 41
+packet 46 containing header + data of size 1472
+Sent packet with seq: 46
+Received ACK for seq: 42
+packet 47 containing header + data of size 1472
+Sent packet with seq: 47
+Received ACK for seq: 43
+packet 48 containing header + data of size 1472
+Sent packet with seq: 48
+Received ACK for seq: 44
+packet 49 containing header + data of size 1472
+Sent packet with seq: 49
+Received ACK for seq: 45
+packet 50 containing header + data of size 1472
+Sent packet with seq: 50
+Received ACK for seq: 46
+packet 51 containing header + data of size 1472
+Sent packet with seq: 51
+Received ACK for seq: 47
+packet 52 containing header + data of size 1472
+Sent packet with seq: 52
+Received ACK for seq: 48
+packet 53 containing header + data of size 1472
+Sent packet with seq: 53
+Received ACK for seq: 49
+packet 54 containing header + data of size 1472
+Sent packet with seq: 54
+Received ACK for seq: 50
+packet 55 containing header + data of size 1472
+Sent packet with seq: 55
+Received ACK for seq: 51
+packet 56 containing header + data of size 1472
+Sent packet with seq: 56
+Received ACK for seq: 52
+packet 57 containing header + data of size 1472
+Sent packet with seq: 57
+Received ACK for seq: 53
+packet 58 containing header + data of size 1472
+Sent packet with seq: 58
+Received ACK for seq: 54
+packet 59 containing header + data of size 1472
+Sent packet with seq: 59
+Received ACK for seq: 55
+packet 60 containing header + data of size 1472
+Sent packet with seq: 60
+Received ACK for seq: 56
+packet 61 containing header + data of size 1472
+Sent packet with seq: 61
+Received ACK for seq: 57
+packet 62 containing header + data of size 1472
+Sent packet with seq: 62
+Received ACK for seq: 58
+packet 63 containing header + data of size 1472
+Sent packet with seq: 63
+Received ACK for seq: 59
+packet 64 containing header + data of size 1472
+Sent packet with seq: 64
+Received ACK for seq: 60
+packet 65 containing header + data of size 1472
+Sent packet with seq: 65
+Received ACK for seq: 61
+packet 66 containing header + data of size 1472
+Sent packet with seq: 66
+Received ACK for seq: 62
+packet 67 containing header + data of size 1472
+Sent packet with seq: 67
+Received ACK for seq: 63
+packet 68 containing header + data of size 1472
+Sent packet with seq: 68
+Received ACK for seq: 64
+packet 69 containing header + data of size 1472
+Sent packet with seq: 69
+Received ACK for seq: 65
+packet 70 containing header + data of size 1472
+Sent packet with seq: 70
+Received ACK for seq: 66
+packet 71 containing header + data of size 1472
+Sent packet with seq: 71
+Received ACK for seq: 67
+packet 72 containing header + data of size 1472
+Sent packet with seq: 72
+Received ACK for seq: 68
+packet 73 containing header + data of size 1472
+Sent packet with seq: 73
+Received ACK for seq: 69
+packet 74 containing header + data of size 1472
+Sent packet with seq: 74
+Received ACK for seq: 70
+packet 75 containing header + data of size 1472
+Sent packet with seq: 75
+Received ACK for seq: 71
+packet 76 containing header + data of size 1472
+Sent packet with seq: 76
+Received ACK for seq: 72
+packet 77 containing header + data of size 1472
+Sent packet with seq: 77
+Received ACK for seq: 73
+packet 78 containing header + data of size 1472
+Sent packet with seq: 78
+Received ACK for seq: 74
+packet 79 containing header + data of size 1472
+Sent packet with seq: 79
+Received ACK for seq: 75
+packet 80 containing header + data of size 1472
+Sent packet with seq: 80
+Received ACK for seq: 76
+packet 81 containing header + data of size 1472
+Sent packet with seq: 81
+Received ACK for seq: 77
+packet 82 containing header + data of size 1472
+Sent packet with seq: 82
+Received ACK for seq: 78
+packet 83 containing header + data of size 1472
+Sent packet with seq: 83
+Received ACK for seq: 79
+packet 84 containing header + data of size 1472
+Sent packet with seq: 84
+Received ACK for seq: 80
+packet 85 containing header + data of size 1472
+Sent packet with seq: 85
+Received ACK for seq: 81
+packet 86 containing header + data of size 1472
+Sent packet with seq: 86
+Received ACK for seq: 82
+packet 87 containing header + data of size 1472
+Sent packet with seq: 87
+Received ACK for seq: 83
+packet 88 containing header + data of size 1472
+Sent packet with seq: 88
+Received ACK for seq: 84
+packet 89 containing header + data of size 1472
+Sent packet with seq: 89
+Received ACK for seq: 85
+packet 90 containing header + data of size 1472
+Sent packet with seq: 90
+Received ACK for seq: 86
+packet 91 containing header + data of size 1472
+Sent packet with seq: 91
+Received ACK for seq: 87
+packet 92 containing header + data of size 1472
+Sent packet with seq: 92
+Received ACK for seq: 88
+packet 93 containing header + data of size 1472
+Sent packet with seq: 93
+Received ACK for seq: 89
+packet 94 containing header + data of size 308
+Sent packet with seq: 94
+Received ACK for seq: 90
+Received ACK for seq: 91
+Received ACK for seq: 92
+Received ACK for seq: 93
+Received ACK for seq: 94
+Received last ACK for seq: 94
+Total throughput: 0.39 and the number of bytes sent 135.43 KB
+File transfer complete
+Waiting for ACK from server...
+ACK received from server
+Connection closed successfully!

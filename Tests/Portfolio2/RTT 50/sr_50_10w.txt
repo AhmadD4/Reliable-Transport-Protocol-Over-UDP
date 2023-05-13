@@ -1,0 +1,191 @@
+SYN sent to server
+SYN-ACK received from server
+ACK sent to server
+Connection established successfully!
+Sent packet with seq: 0
+Sent packet with seq: 1
+Sent packet with seq: 2
+Sent packet with seq: 3
+Sent packet with seq: 4
+Sent packet with seq: 5
+Sent packet with seq: 6
+Sent packet with seq: 7
+Sent packet with seq: 8
+Sent packet with seq: 9
+Received ACK for seq: 0 the base is: 0
+Sent packet with seq: 10
+Received ACK for seq: 1 the base is: 1
+Sent packet with seq: 11
+Received ACK for seq: 2 the base is: 2
+Sent packet with seq: 12
+Received ACK for seq: 3 the base is: 3
+Sent packet with seq: 13
+Received ACK for seq: 4 the base is: 4
+Sent packet with seq: 14
+Received ACK for seq: 5 the base is: 5
+Sent packet with seq: 15
+Received ACK for seq: 6 the base is: 6
+Sent packet with seq: 16
+Received ACK for seq: 7 the base is: 7
+Sent packet with seq: 17
+Received ACK for seq: 8 the base is: 8
+Sent packet with seq: 18
+Received ACK for seq: 9 the base is: 9
+Sent packet with seq: 19
+Received ACK for seq: 10 the base is: 10
+Sent packet with seq: 20
+Received ACK for seq: 11 the base is: 11
+Sent packet with seq: 21
+Received ACK for seq: 12 the base is: 12
+Sent packet with seq: 22
+Received ACK for seq: 13 the base is: 13
+Sent packet with seq: 23
+Received ACK for seq: 14 the base is: 14
+Sent packet with seq: 24
+Received ACK for seq: 15 the base is: 15
+Sent packet with seq: 25
+Received ACK for seq: 16 the base is: 16
+Sent packet with seq: 26
+Received ACK for seq: 17 the base is: 17
+Sent packet with seq: 27
+Received ACK for seq: 18 the base is: 18
+Sent packet with seq: 28
+Received ACK for seq: 19 the base is: 19
+Sent packet with seq: 29
+Received ACK for seq: 20 the base is: 20
+Sent packet with seq: 30
+Received ACK for seq: 21 the base is: 21
+Sent packet with seq: 31
+Received ACK for seq: 22 the base is: 22
+Sent packet with seq: 32
+Received ACK for seq: 23 the base is: 23
+Sent packet with seq: 33
+Received ACK for seq: 24 the base is: 24
+Sent packet with seq: 34
+Received ACK for seq: 25 the base is: 25
+Sent packet with seq: 35
+Received ACK for seq: 26 the base is: 26
+Sent packet with seq: 36
+Received ACK for seq: 27 the base is: 27
+Sent packet with seq: 37
+Received ACK for seq: 28 the base is: 28
+Sent packet with seq: 38
+Received ACK for seq: 29 the base is: 29
+Sent packet with seq: 39
+Received ACK for seq: 30 the base is: 30
+Sent packet with seq: 40
+Received ACK for seq: 31 the base is: 31
+Sent packet with seq: 41
+Received ACK for seq: 32 the base is: 32
+Sent packet with seq: 42
+Received ACK for seq: 33 the base is: 33
+Sent packet with seq: 43
+Received ACK for seq: 34 the base is: 34
+Sent packet with seq: 44
+Received ACK for seq: 35 the base is: 35
+Sent packet with seq: 45
+Received ACK for seq: 36 the base is: 36
+Sent packet with seq: 46
+Received ACK for seq: 37 the base is: 37
+Sent packet with seq: 47
+Received ACK for seq: 38 the base is: 38
+Sent packet with seq: 48
+Received ACK for seq: 39 the base is: 39
+Sent packet with seq: 49
+Received ACK for seq: 40 the base is: 40
+Sent packet with seq: 50
+Received ACK for seq: 41 the base is: 41
+Sent packet with seq: 51
+Received ACK for seq: 42 the base is: 42
+Sent packet with seq: 52
+Received ACK for seq: 43 the base is: 43
+Sent packet with seq: 53
+Received ACK for seq: 44 the base is: 44
+Sent packet with seq: 54
+Received ACK for seq: 45 the base is: 45
+Sent packet with seq: 55
+Received ACK for seq: 46 the base is: 46
+Sent packet with seq: 56
+Received ACK for seq: 47 the base is: 47
+Sent packet with seq: 57
+Received ACK for seq: 48 the base is: 48
+Sent packet with seq: 58
+Received ACK for seq: 49 the base is: 49
+Sent packet with seq: 59
+Received ACK for seq: 50 the base is: 50
+Sent packet with seq: 60
+Received ACK for seq: 51 the base is: 51
+Sent packet with seq: 61
+Received ACK for seq: 52 the base is: 52
+Sent packet with seq: 62
+Received ACK for seq: 53 the base is: 53
+Sent packet with seq: 63
+Received ACK for seq: 54 the base is: 54
+Sent packet with seq: 64
+Received ACK for seq: 55 the base is: 55
+Sent packet with seq: 65
+Received ACK for seq: 56 the base is: 56
+Sent packet with seq: 66
+Received ACK for seq: 57 the base is: 57
+Sent packet with seq: 67
+Received ACK for seq: 58 the base is: 58
+Sent packet with seq: 68
+Received ACK for seq: 59 the base is: 59
+Sent packet with seq: 69
+Received ACK for seq: 60 the base is: 60
+Sent packet with seq: 70
+Received ACK for seq: 61 the base is: 61
+Sent packet with seq: 71
+Received ACK for seq: 62 the base is: 62
+Sent packet with seq: 72
+Received ACK for seq: 63 the base is: 63
+Sent packet with seq: 73
+Received ACK for seq: 64 the base is: 64
+Sent packet with seq: 74
+Received ACK for seq: 65 the base is: 65
+Sent packet with seq: 75
+Received ACK for seq: 66 the base is: 66
+Sent packet with seq: 76
+Received ACK for seq: 67 the base is: 67
+Sent packet with seq: 77
+Received ACK for seq: 68 the base is: 68
+Sent packet with seq: 78
+Received ACK for seq: 69 the base is: 69
+Sent packet with seq: 79
+Received ACK for seq: 70 the base is: 70
+Sent packet with seq: 80
+Received ACK for seq: 71 the base is: 71
+Sent packet with seq: 81
+Received ACK for seq: 72 the base is: 72
+Sent packet with seq: 82
+Received ACK for seq: 73 the base is: 73
+Sent packet with seq: 83
+Received ACK for seq: 74 the base is: 74
+Sent packet with seq: 84
+Received ACK for seq: 75 the base is: 75
+Sent packet with seq: 85
+Received ACK for seq: 76 the base is: 76
+Sent packet with seq: 86
+Received ACK for seq: 77 the base is: 77
+Sent packet with seq: 87
+Received ACK for seq: 78 the base is: 78
+Sent packet with seq: 88
+Received ACK for seq: 79 the base is: 79
+Sent packet with seq: 89
+Received ACK for seq: 80 the base is: 80
+Sent packet with seq: 90
+Received ACK for seq: 81 the base is: 81
+Sent packet with seq: 91
+Received ACK for seq: 82 the base is: 82
+Sent packet with seq: 92
+Received ACK for seq: 83 the base is: 83
+Sent packet with seq: 93
+Received ACK for seq: 84 the base is: 84
+Sent packet with seq: 94
+Received ACK for seq: 85 the base is: 85
+Received last ACK for seq: 85
+Total throughput: 1.88 and the number of bytes sent 135.43 KB
+File transfer complete
+Waiting for ACK from server...
+ACK received from server
+Connection closed successfully!
